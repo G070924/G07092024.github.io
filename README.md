@@ -1,1 +1,2 @@
-# G07092024.github.io
+#My GitHub Page
+![Sample Image](1.jpg)
